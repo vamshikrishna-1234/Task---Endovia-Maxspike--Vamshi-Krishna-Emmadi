@@ -11,16 +11,16 @@ So, Profit=Final Equity−Initial Capital=589,080−200,000=₹389,080
 
 
 Metrics CSV:
-
+refer to metrics_csv
 Total return in the above picture is the profit percent, so the total equity is 200000*(1+total_return), ( please refer  the code in case )
 
 Equity curve:
 
-
+refer to equity curve.png
 
 Drawdown:
 
-
+refer to drawdown.png
 
 
 
